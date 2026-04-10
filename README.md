@@ -97,13 +97,13 @@ This project demonstrates how companies can:
 * Improve marketing strategies using data-driven insights
 * Ensure reliability of AI-generated insights before deployment
 
-## 🤖 Future Improvements
+## Future Improvements
 * Integrate LLM (e.g., ChatGPT API) for dynamic insight generation
 * Add input validation layer to prevent incorrect data processing
 * Build an interactive dashboard (Power BI / Streamlit)
 * Implement real-time data pipeline
 
-## 🧠 What I Learned
+## What I Learned
 * Data quality is critical for reliable insights
 * Customer segmentation drives business strategy
 * AI systems must be tested for edge cases before production use

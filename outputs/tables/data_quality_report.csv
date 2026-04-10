@@ -1,0 +1,10 @@
+metric,value
+total_rows_before,10000
+missing_customer_id,10
+missing_unit_price,10
+negative_quantity,10
+negative_total_amount,10
+unknown_category,10
+duplicate_rows,0
+total_rows_after,9950
+rows_removed,50
